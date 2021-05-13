@@ -1,0 +1,24 @@
+{
+  "name": "@nurlaney/numbertoword",
+  "version": "1.0.0",
+  "description": "Converts given number to azerbaijani words",
+  "main": "numToWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeacademyprogramming/13-05-2021-nurlaney.git"
+  },
+  "keywords": [
+    "numbers",
+    "words",
+    "functions"
+  ],
+  "author": "nurlaney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeacademyprogramming/13-05-2021-nurlaney/issues"
+  },
+  "homepage": "https://github.com/codeacademyprogramming/13-05-2021-nurlaney#readme"
+}
